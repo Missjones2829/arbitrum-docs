@@ -4,7 +4,6 @@ description: A reference providing details about the Stylus testnet and faucets 
 author: amarrazza
 sme: amarrazza
 target_audience: Developers building on the Stylus testnet
-sidebar_label: 'Testnet information'
 sidebar_position: 9
 ---
 
@@ -14,7 +13,7 @@ import PublicPreviewBannerPartial from '../partials/_stylus-public-preview-banne
 
 :::caution
 
-Stylus is undergoing major upgrades, and some improvements are expected to require a chain reset. Prior to a reset, developers on the testnet are recommened to withdraw their testnet ETH (there is no 7-day delay since this is a testnet, withdrawals are processed in minutes) and redeploy their contracts on the new chain. There will be advanced warning of any resets. Stay up-to-date by joining the Stylus channel in [Discord](https://discord.com/invite/arbitrum).
+Stylus is undergoing major upgrades, and some improvements are expected to require a chain reset. Prior to a reset, developers on the testnet are recommended to withdraw their testnet ETH (there is no 7-day delay since this is a testnet, withdrawals are processed in minutes) and redeploy their contracts on the new chain. There will be advanced warning of any resets. Stay up-to-date by joining the Stylus channel in [Discord](https://discord.com/invite/arbitrum).
 
 :::
 
